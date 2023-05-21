@@ -14,7 +14,7 @@ from datetime import timedelta
 
 from utils.query import *
 
-st.set_page_config(layout="wide")
+st.set_page_config(layout="wide", page_title="WebBee")
 
 st.markdown('<div><a href="/" alt="Web-bee"><img src="https://drive.moskit.pro/f/f224bceb243b47a6b8f7/?dl=1" width="140"></a></h3>', unsafe_allow_html=True)
 
